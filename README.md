@@ -1,4 +1,4 @@
-## Hi there 👋
+<h2 align="center">Hi there👋, I'm Trilok!</h2>
 
 - 🔭 I’m currently working on personal site and finding work to get real work experience
 - 🌱 I’m currently learning DSA/C++, JavaScript, MERN stack
