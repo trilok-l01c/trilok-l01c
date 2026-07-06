@@ -1,3 +1,3 @@
-<h4 align="center">Hi there👋, I'm Trilok!</h4>
+<h2 align="left">Hi there👋, I'm Trilok!</h2>
 A self-taught programmer.<br> 
 A bookworm.<br>
